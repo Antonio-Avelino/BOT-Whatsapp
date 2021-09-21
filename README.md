@@ -5,8 +5,8 @@ Instalar pacotes (npm install)
 
 npm install
 
-#Execute o script do aplicativo.js:
-<b> e npm run start </b>
+Execute o script do aplicativo.js:
+<b> npm run start </b>
 
 ![b1](https://user-images.githubusercontent.com/71909065/134195040-ba030478-8e20-4d8c-9fb2-4b85266a08c7.png)
 
