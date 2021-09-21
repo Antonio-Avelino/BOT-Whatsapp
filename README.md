@@ -9,6 +9,7 @@ Localize-se no diretório que você baixou e via console ou terminal executar o 
 npm install
 
 #Execute o script do aplicativo.js
+![b1](https://user-images.githubusercontent.com/71909065/134195040-ba030478-8e20-4d8c-9fb2-4b85266a08c7.png)
 
 Escaneie o código QR do seu aplicativo Whatsapp
 
