@@ -13,6 +13,7 @@ Execute o script do aplicativo.js:
 Escaneie o código QR do seu aplicativo Whatsapp
 
 Agora abra o aplicativo Whatsapp em seu dispositivo e escaneie o código QR
+![bom](https://user-images.githubusercontent.com/71909065/134198410-94153ea5-3834-4ef4-b289-b44edc3f53f5.png)
 
 Quando esta mensagem sair, seu BOT está pronto para funcionar!
 
