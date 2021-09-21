@@ -19,3 +19,4 @@ Quando esta mensagem sair, seu BOT está pronto para funcionar!
 
 Como usá-lo
 Escreva uma mensagem para o whatsapp que você vinculou ao seu BOT
+![Captura de ecrã de 2021-09-21 16-22-58](https://user-images.githubusercontent.com/71909065/134199726-21d27df5-fc2e-4653-b647-97126253441a.png)
